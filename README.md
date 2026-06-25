@@ -12,6 +12,8 @@ The **MacroMind Market Regime Detector** is a high-fidelity quantitative analysi
 Integrating the advanced **Gemini 3.5 Flash** model with Google Search Grounding, the platform analyzes live economic events and sentiment feeds to generate real-time briefings, historical analogues, and directional probability models.
 
 ---
+🔗 **Live Application:** [https://project-file-explorer-1005046078978.asia-southeast1.run.app](https://project-file-explorer-1005046078978.asia-southeast1.run.app)
+---
 
 ## 🌟 Key Capabilities
 
