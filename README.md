@@ -1,4 +1,4 @@
-# 📊 MacroMind Market Regime Detector
+# 📊 MacroMind Regime Detector
 
 > Real-time market regime intelligence and sentiment analysis system for Crypto & Stocks, featuring AI-grounded scans, live Bitget data, and an interactive paper trading desk.
 
