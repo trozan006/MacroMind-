@@ -2,9 +2,6 @@
 
 > Real-time market regime intelligence and sentiment analysis system for Crypto & Stocks, featuring AI-grounded scans, live Bitget data, and an interactive paper trading desk.
 
-<div align="center">
-  <img width="1200" height="475" alt="MacroMind Market Regime Detector" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
 
 ---
 
